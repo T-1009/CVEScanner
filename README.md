@@ -1,6 +1,7 @@
 # CVEScanner
  Northwestern Polytechnical University Information Security Innovation Experiment Assignment .
- 西工大信息安全创新实验大作业
+ 
+ 西工大信息安全创新实验大作业。
 ## Usage
 ![image](https://github.com/T-1009/CVEScanner/assets/102849988/9a9f31d8-e9aa-47c2-a209-f4ee662468ef)
 
